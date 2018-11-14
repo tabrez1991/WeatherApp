@@ -13,7 +13,7 @@ import CoreLocation
 
 class ViewController: UIViewController, CLLocationManagerDelegate{
 
-    let apiKey = "402cd6043190fe875f5c35564ae20c56"
+    let apiKey = "your api key"
     var lat = 28.541037
     var lng = 77.398905
     var i: Int = 0
