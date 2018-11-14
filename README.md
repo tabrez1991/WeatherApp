@@ -15,7 +15,7 @@ pod 'SwiftyJSON', '~> 4.0'
 Now open yourProject.xcworkspace
 
 ## Info.plist
-Give the permission of the location.
+Give the permission for using location.
 
 ## Screenshot
 <p>
